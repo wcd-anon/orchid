@@ -21,7 +21,7 @@ New editions are availible :
 - DWM & DWM Gaming.
 - Gnome, Gnome Gaming and Gnome Gaming SystemD.
 - KDE Plasma (WIP).
-- XFCS Gaming
+- XFCE Gaming
 
 
 Gaming editions come bundled with 32bits libs, vulkan support, wine, and much more.
